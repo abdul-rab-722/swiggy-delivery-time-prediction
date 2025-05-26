@@ -1,7 +1,7 @@
-Swiggy-Delivery-Time_prediction
+Swiggy-Delivery-Time-Prediction
 ==============================
 
-Build ML Project that predicts food delivery time in minutes
+Build Ml project that predicts food delivery time in minutes
 
 Project Organization
 ------------
